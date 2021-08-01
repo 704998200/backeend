@@ -1,0 +1,18 @@
+{
+  "properties": [
+    {
+      "name": "jwt.header",
+      "type": "java.lang.String",
+      "description": "JWT 头(一般为 Authorization )."
+    },
+    {
+      "name": "jwt.expiration",
+      "type": "java.lang.String",
+      "description": "Description for jwt.expiration."
+    },
+    {
+      "name": "jwt.secret",
+      "type": "java.lang.String",
+      "description": "Description for jwt.secret."
+    }
+  ] }
